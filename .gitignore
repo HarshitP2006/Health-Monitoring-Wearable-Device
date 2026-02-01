@@ -1,25 +1,18 @@
-# Flutter
+# Flutter / Dart
 .dart_tool/
 .packages
 build/
-.pub-cache/
-.pub/
 .flutter-plugins
 .flutter-plugins-dependencies
 
-# Android
-android/.gradle/
-android/app/build/
-android/local.properties
-
-# iOS
-ios/Pods/
-ios/.symlinks/
-ios/Flutter/Flutter.framework
-ios/Flutter/Flutter.podspec
-
-# Misc
-*.log
-*.lock
+# IDE
 .idea/
+*.iml
 .vscode/
+
+# Logs
+build_log.txt
+
+# OS
+.DS_Store
+Thumbs.db

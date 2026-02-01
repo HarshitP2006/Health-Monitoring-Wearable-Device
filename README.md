@@ -117,10 +117,3 @@ pubspec.yaml
 **Harshit P**  
 Engineering Student — VLSI,Embedded Systems, Biomedical Tech, Mobile Dev  
 📍 India
-
----
-
-## 🔗 License
-
-*(Add your license info — MIT/Apache/Proprietary, if any)*
-
